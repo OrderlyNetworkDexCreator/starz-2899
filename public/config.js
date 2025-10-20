@@ -17,7 +17,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "A retarted tool for retarded traders",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "false",
-  "VITE_ENABLED_MENUS": "Trading,Swap,Portfolio,Leaderboard,Markets,Vaults",
+  "VITE_ENABLED_MENUS": "Trading,Swap,Portfolio,Leaderboard,Markets,Vaults,Rewards",
   "VITE_CUSTOM_MENUS": "",
   "VITE_ENABLE_CAMPAIGNS": "true",
   "VITE_TELEGRAM_URL": "",
@@ -31,7 +31,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_TWITTER_HANDLE": "",
   "VITE_SEO_THEME_COLOR": "#231a23",
   "VITE_SEO_KEYWORDS": "DEX crypto trading platform orderly OrderlyOne new DEX for retards",
-  "VITE_AVAILABLE_LANGUAGES": "en,fr,es,it,nl,uk,pt,ru,ja,zh,de,pl",
+  "VITE_AVAILABLE_LANGUAGES": "en,fr,es,it,nl,uk,pt,ru,ja,zh,de,pl,tr,id,vi,ko",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "2",
   "VITE_TRADING_VIEW_COLOR_CONFIG": ""
